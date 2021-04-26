@@ -1,8 +1,6 @@
 package spotivityAgencyTestcases;
 
 import java.util.Properties;
-
-import org.openqa.selenium.grid.config.Config;
 import org.testng.ReporterConfig.Property;
 import org.testng.annotations.Test;
 
